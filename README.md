@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @Dean413
-- 👀 I’m interested in Web development, Data Analysis and Cyber Security
-- 🌱 I’m currently learning Web development (HTML, CSS and Javascript)
-- 💞️ I’m looking to collaborate on any work related to Web Develpment or Data Analysis
-- 📫 How to reach me: Horlalekan234 on instagram
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: i'm very passionate about learning new things
+👋 Hi, I'm Bamigboye Olalekan – Virtual Assistant & Web Developer
 
-<!---
-Dean413/Dean413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! I'm a dedicated Virtual Assistant with a passion for web development. I help businesses stay organized and efficient, while also building responsive websites and web apps using modern technologies.
+
+**💻 Tech Skills**
+
+🧑‍💼 **Virtual Assistant**
+
+-  Email and calendar management
+-  Data entry and database handling
+-  Microsoft Office / Google Workspace
+-  Scheduling and task tracking
+-  Customer support & live chat tools
+
+**🌐 Web Development**
+
+-  HTML, CSS, JavaScript
+-  React.js, Tailwind CSS
+-  Node.js, expressjs
+-  MongoDB, mySQL
+-  Git & GitHub version control
+-  Responsive web design
+
+**📫 Let's Connect!**
+
+Email: bamigboyeolalekan@example.com
+
+LinkedIn: linkedin.com/in/bamigboyeolalekan
+
+Portfolio: yourwebsite.com (if applicable)
+
+**📈 Currently Learning**
+
+Node.js, Express.js
+
+MySQL database integration
+
+Advanced Git workflows
