@@ -27,8 +27,6 @@ Email: bamigboyeolalekan@example.com
 
 LinkedIn: linkedin.com/in/bamigboyeolalekan
 
-Portfolio: yourwebsite.com (if applicable)
-
 **📈 Currently Learning**
 
 Node.js, Express.js
