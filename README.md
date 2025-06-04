@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a dedicated Virtual Assistant with a passion for web d
 
 Email: bamigboyeolalekan@example.com
 
-LinkedIn: www.linkedin.com/in/bamigboyeolalekan
+LinkedIn: www.linkedin.com/in/olalekanbamigboye
 
 **📈 Currently Learning**
 
