@@ -1,36 +1,38 @@
-👋 Hi, I'm Bamigboye Olalekan – Virtual Assistant & Web Developer
+👋 Hi, I'm Bamigboye Olalekan – Software Developer (Web & App)
 
-Welcome to my GitHub! I'm a dedicated Virtual Assistant with a passion for web development. I help businesses stay organized and efficient, while also building responsive websites and web apps using modern technologies.
+Welcome to my GitHub! I'm a passionate Software Developer focused on building modern, responsive, and scalable web applications. I create user-friendly digital experiences using modern technologies while continuously improving my skills in full-stack development.
 
-**💻 Tech Skills**
+💻 Tech Skills
 
-🧑‍💼 **Virtual Assistant**
+🌐 Software Development
 
--  Email and calendar management
--  Data entry and database handling
--  Microsoft Office / Google Workspace
--  Scheduling and task tracking
--  Customer support & live chat tools
+- HTML, CSS, JavaScript
+- React.js, Next.js, React native, Expo go, pTailwind CSS
+- Node.js, Express.js
+- MongoDB, MySQL, Supabase, postgres
+- REST APIs & Backend Development
+- Git & GitHub version control
+- Responsive web design
+- Database management and integration
 
-**🌐 Web Development**
+📱 Web & App Development
 
--  HTML, CSS, JavaScript
--  React.js, Tailwind CSS
--  Node.js, expressjs
--  MongoDB, mySQL
--  Git & GitHub version control
--  Responsive web design
+- Building responsive websites and web applications
+- Frontend UI development
+- Backend API development
+- Authentication and database integration
+- Modern full-stack application development
 
-**📫 Let's Connect!**
+📫 Let's Connect!
 
-Email: bamigboyeolalekan@example.com
+Email: bamigboyeolalekan@gmail.com
 
 LinkedIn: www.linkedin.com/in/olalekanbamigboye
 
-**📈 Currently Learning**
+📈 Currently Learning
 
-Node.js, Express.js
-
-MySQL database integration
-
-Advanced Git workflows
+- Advanced Node.js & Express.js
+- MySQL database optimization
+- Advanced Git workflows
+- Scalable application architecture
+- Mobile app development
